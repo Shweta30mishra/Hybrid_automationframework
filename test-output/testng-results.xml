@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T17:44:17 EDT" name="Default suite" finished-at="2023-06-07T17:45:37 EDT" duration-ms="80187">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T17:44:17 EDT" name="Default test" finished-at="2023-06-07T17:45:37 EDT" duration-ms="80187">
+      <class name="com.tutorialninja.qa.testcase.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:44:17 EDT" name="setup" finished-at="2023-06-07T17:44:33 EDT" duration-ms="16218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:1, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:44:33 EDT" name="verifyLoginWithValidCredentials" finished-at="2023-06-07T17:44:35 EDT" duration-ms="1226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:44:35 EDT" name="tearDown" finished-at="2023-06-07T17:44:35 EDT" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:44:35 EDT" name="setup" finished-at="2023-06-07T17:44:50 EDT" duration-ms="14641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidEmailInvalidPassword()[pri:2, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:44:50 EDT" name="verifyLoginWithValidEmailInvalidPassword" finished-at="2023-06-07T17:44:51 EDT" duration-ms="973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidEmailInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:44:51 EDT" name="tearDown" finished-at="2023-06-07T17:44:51 EDT" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:44:51 EDT" name="setup" finished-at="2023-06-07T17:45:06 EDT" duration-ms="14769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidEmailvalidPassword()[pri:3, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:06 EDT" name="verifyLoginWithInvalidEmailvalidPassword" finished-at="2023-06-07T17:45:07 EDT" duration-ms="995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidEmailvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:07 EDT" name="tearDown" finished-at="2023-06-07T17:45:07 EDT" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:07 EDT" name="setup" finished-at="2023-06-07T17:45:21 EDT" duration-ms="14163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:4, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:21 EDT" name="verifyLoginWithInvalidCredentials" finished-at="2023-06-07T17:45:22 EDT" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:22 EDT" name="tearDown" finished-at="2023-06-07T17:45:22 EDT" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:22 EDT" name="setup" finished-at="2023-06-07T17:45:36 EDT" duration-ms="14114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithoutCredentails()[pri:5, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:36 EDT" name="verifyLoginWithoutCredentails" finished-at="2023-06-07T17:45:37 EDT" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithoutCredentails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialninja.qa.testcase.LoginTest@156b88f5]" started-at="2023-06-07T17:45:37 EDT" name="tearDown" finished-at="2023-06-07T17:45:37 EDT" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialninja.qa.testcase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
